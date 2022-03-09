@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "5f0afb37aca81cd980bf6e60"
+  },
+  "id_HV": "HV001",
+  "TenHV": "Phạm Hoàng Anh",
+  "Namsinh": 1999,
+  "SDT": {
+    "$code": "0942256768",
+    "$scope": {}
+  },
+  "Diachi": "81 Tô Hiến Thành TP.HCM",
+  "id_Lop": "L001"
+}]

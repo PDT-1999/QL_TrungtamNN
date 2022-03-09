@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_TTNN", "QL_TTNN\QL_TTNN.csproj", "{21CB4C55-AC97-4BA1-A0EE-F1DCBEE2EC73}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{A3213D28-F6A0-43DB-9D7B-D0575A56D3D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CB4C55-AC97-4BA1-A0EE-F1DCBEE2EC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CB4C55-AC97-4BA1-A0EE-F1DCBEE2EC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CB4C55-AC97-4BA1-A0EE-F1DCBEE2EC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CB4C55-AC97-4BA1-A0EE-F1DCBEE2EC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3213D28-F6A0-43DB-9D7B-D0575A56D3D0}.Debug|Any CPU.ActiveCfg = Debug
+		{A3213D28-F6A0-43DB-9D7B-D0575A56D3D0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

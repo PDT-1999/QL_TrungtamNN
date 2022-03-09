@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5f0add65aca81cd980bf6e5f"
+  },
+  "id_GV": "GV001",
+  "TenGV": "Lê Văn Cường",
+  "Ngaysinh": "22/03/1987",
+  "Gioitinh": "Nam",
+  "Diachi": "22/4 Phan Văn Trị, TP.HCM",
+  "SDT": {
+    "$code": "0987664256",
+    "$scope": {}
+  },
+  "Luongcb": 500000
+}]

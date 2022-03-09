@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "5f0afef7aca81cd980bf6e62"
+  },
+  "id_Lop": "LP001",
+  "TenLp": "Ngôn ngữ Anh NN1",
+  "id_Mon": "M001",
+  "id_GV": "GV001"
+}]
